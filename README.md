@@ -16,6 +16,7 @@ O usuário pode selecionar a quantidade de vértices do objeto(entre 3 a 9), mud
 #### main.cpp
 
 Aqui foi definido o ponto de entrada da aplicação, colocando o título da tela como "Modificador de Objeto"
+**OBSERVAÇÃO:** Para que a aplicação funciona-se no meu computador foi necessário colocar doubleBuffering = true.
 
 ```
 #include "window.hpp"
